@@ -17,4 +17,5 @@
 
 You Can Support me - For Free , Just By Sending me Tip From Brave Browser. ( <b>BAT Coin </b>)
 
-Visit Channel - [Do some coding](https://youtube.com/dosomecoding)
+Visit Channel - [Do some coding](https://www.youtube.com/c/dosomecoding)
+›
