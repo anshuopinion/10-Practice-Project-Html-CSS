@@ -101,3 +101,14 @@ code {
   margin: 10px;
   border-radius: 5px;
 }
+@media(max-width:480px){
+  body{
+    flex-direction: column;
+  }
+  header{
+    position: relative;
+    height: 200px;
+    overflow: hidden;
+    overflow-y: scroll;
+  }
+}
